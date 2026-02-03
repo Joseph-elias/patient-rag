@@ -286,6 +286,6 @@ python scripts/visualize_patient_graph.py
 
 MIT License — free to use and modify.
 
-```
+
 
 ---
