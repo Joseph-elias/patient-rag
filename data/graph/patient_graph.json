@@ -1,0 +1,63 @@
+{
+  "patients": {
+    "P001": {
+      "diagnosis": {
+        "value": "Stage III non-small cell lung cancer",
+        "evidence": "[S1]"
+      },
+      "treatment": {
+        "value": "Immunotherapy + chemotherapy",
+        "evidence": "[S1]"
+      },
+      "adverse_events": [
+        {
+          "name": "Fatigue",
+          "grade": 1,
+          "evidence": "[S1]"
+        },
+        {
+          "name": "Skin rash",
+          "grade": 1,
+          "evidence": "[S1]"
+        },
+        {
+          "name": "Hepatitis",
+          "grade": null,
+          "evidence": "[S1]"
+        }
+      ],
+      "negated_findings": [],
+      "follow_up": {
+        "value": "Stable disease after 2 months",
+        "evidence": "[S1]"
+      }
+    },
+    "P005": {
+      "diagnosis": {
+        "value": "Small cell lung cancer",
+        "evidence": "[S1]"
+      },
+      "treatment": {
+        "value": "Anti-PD-L1 immunotherapy",
+        "evidence": "[S1]"
+      },
+      "adverse_events": [
+        {
+          "name": "Diarrhea",
+          "grade": 2,
+          "evidence": "[S1]"
+        },
+        {
+          "name": "Nausea",
+          "grade": 2,
+          "evidence": "[S1]"
+        }
+      ],
+      "negated_findings": [],
+      "follow_up": {
+        "value": "Disease progression after 6 months",
+        "evidence": "[S1]"
+      }
+    }
+  }
+}

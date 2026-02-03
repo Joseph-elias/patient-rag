@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+#
+# Data (do not commit patient docs)
+data/raw/
+data/processed/
+
+
+# Indexes
+indices/
+
+# OS
+.DS_Store
